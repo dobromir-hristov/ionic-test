@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">vue-ionic</string>
+  <string name="title_activity_main">vue-ionic</string>
+  <string name="package_name">io.ionic.starter</string>
+  <string name="custom_url_scheme">io.ionic.starter</string>
+  <string name="ionic_app_id">23ae76d5</string>
+  <string name="ionic_channel_name">Master</string>
+  <string name="ionic_update_method">auto</string>
+</resources>
